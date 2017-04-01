@@ -1,0 +1,17 @@
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NFine.Code.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NFine.Code.pdb
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\log4net.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\Newtonsoft.Json.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OOXML.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\log4net.xml
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\Newtonsoft.Json.xml
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.xml
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OOXML.xml
+E:\nfine-NFine-master\NFine\project\NFine.Code\bin\Debug\NPOI.OpenXml4Net.xml
+E:\nfine-NFine-master\NFine\project\NFine.Code\obj\Debug\NFine.Code.csprojResolveAssemblyReference.cache
+E:\nfine-NFine-master\NFine\project\NFine.Code\obj\Debug\NFine.Code.dll
+E:\nfine-NFine-master\NFine\project\NFine.Code\obj\Debug\NFine.Code.pdb
